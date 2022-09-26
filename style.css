@@ -222,7 +222,7 @@ form .row textarea{
 form button{
   width: 100%;
   height: 50px;
-  color: #fff;
+  color: rgb(124, 86, 86);
   outline: none;
   border: none;
   cursor: pointer;
